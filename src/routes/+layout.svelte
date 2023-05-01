@@ -10,6 +10,6 @@
 <slot />
 
 
-<footer class="mt-[140px]">
+<footer class="mt-[100px]">
 	<h5 class="text-center">Made with ❤️ by Narek :)</h5>
 </footer>
